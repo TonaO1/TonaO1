@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Parkeye, a real-time parking availability notifcation IOS app for college students.<br>🤝 I’m looking for help with working as a research assistant for a professor specializing in AI ethics or software development.<br>🌱 I’m currently learning Dynamic Programming, and Swift.<br>💬 Ask me about: my honest opinion on Naruto.<br>⚡ Fun fact: I drink a gallon of milk per week.
+🔭 I’m currently working on Parkeye, a real-time parking availability notifcation IOS app for college students.<br>🤝 I’m looking for help with working as a research assistant for a professor specializing in AI ethics or software development.<br>🌱: I’m currently learning Dynamic Programming and Swift.<br>💬 Ask me about: my honest opinion on Naruto.<br>⚡ Fun fact: I drink a gallon of milk per week.
 
 
 ## 🌐 Socials:
