@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Parkeye, a real-time parking availability notifcation IOS app for college students.<br>🤝 I’m looking for help with working as a research assistant for a professor specializing in AI ethics or software development.<br>🌱: I’m currently learning Dynamic Programming and Swift.<br>💬 Ask me about: my honest opinion on Naruto.<br>⚡ Fun fact: I drink a gallon of milk per week.
-
+🔭 I’m currently working on Parkeye, a real-time parking availability notifcation IOS app for college students.<br>🤝 I’m looking for help with working as a research assistant for a professor specializing in ML or CV.<br>🌱: I’m currently learning Dynamic Programming and Swift.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tona-otoro/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tonaotoro@gmail.com) 
