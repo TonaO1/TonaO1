@@ -20,7 +20,7 @@
 
 ### About Me
 
-- Studying **Computer Science** at George Mason University (Class of 2028)
+- Studying **Computer Science** at George Mason University (Second-Year)
 - I build full-stack apps and machine-learning systems that ship to real users
 - Currently a **Software Engineer Intern** working with Spring Boot, REST APIs, and AWS
 - Interested in ML, data pipelines, and turning messy real-world data into useful products
