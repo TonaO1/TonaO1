@@ -70,17 +70,3 @@ Check out my full portfolio at **[tonao1.github.io](https://tonao1.github.io/)**
 > A teacher dashboard for managing student profiles, generating personalized improvement plans, and building classroom seating charts — powered by an Azure OpenAI planning assistant.
 > `Next.js` `Supabase` `TypeScript` `Azure`
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonaO1&show_icons=true&theme=default&hide_border=true" alt="Tona's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonaO1&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
-<p align="center">
-  <i>Always building something. Take a look at <a href="https://tonao1.github.io/">tonao1.github.io</a></i>
-</p>
