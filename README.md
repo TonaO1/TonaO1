@@ -24,7 +24,7 @@
 - I build full-stack apps and machine-learning systems that ship to real users
 - Currently a **Software Engineer Intern** working with Spring Boot, REST APIs, and AWS
 - Interested in ML, data pipelines, and turning messy real-world data into useful products
-- Reach me: **tonaotoro@gmail.com**
+- Reach me: **tonaaotoro@gmail.com**
 
 Check out my full portfolio at **[tonao1.github.io](https://tonao1.github.io/)**
 
